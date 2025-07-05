@@ -43,9 +43,9 @@ Facile à utiliser, rapide à installer, et conçu pour vous immerger dans l’u
 ## 🌐 Serveur Wonder Quest
 
 - **IP** : `play.wonderquest.fr`
-- **Version** : `1.20.X` (moddé via le launcher)
-- **Site officiel** : [https://wonderquest.fr](https://wonderquest.fr)
-- **Discord** : [https://discord.gg/wonderquest](https://discord.gg/wonderquest)
+- **Version** : `1.20.1` (moddé via le launcher)
+- **Site officiel** : Bientôt...
+- **Discord** : [https://discord.gg/ZdYqBsgaNB](https://discord.gg/ZdYqBsgaNB)
 
 ---
 
@@ -60,7 +60,7 @@ Facile à utiliser, rapide à installer, et conçu pour vous immerger dans l’u
 ## ❓ FAQ
 
 ### Le launcher ne démarre pas ?
-Vérifiez que Java 17 ou plus est bien installé sur votre système. Téléchargement : https://adoptium.net/
+Vérifiez que Java 17 ou plus est bien installé sur votre système. Téléchargement : [https://adoptium.net/](https://adoptium.net/)
 
 ### Impossible de se connecter ?
 Assurez-vous que votre compte Minecraft est bien lié à un compte **Microsoft** et que vous êtes en ligne.
