@@ -9,6 +9,11 @@ Facile à utiliser, rapide à installer, et conçu pour vous immerger dans l’u
 
 ---
 
+![Java](https://img.shields.io/badge/java-17%2B-blue)
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Mac%20%7C%20Linux-green)
+
+---
+
 ## 🎮 Fonctionnalités
 
 - ⚙️ Installation automatique des mods, ressources et shaders
