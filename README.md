@@ -3,14 +3,11 @@
 
 
 # 🚀 Wonder Quest Launcher
+![Java](https://img.shields.io/badge/java-17%2B-blue)
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Mac%20%7C%20Linux-green)
 
 Bienvenue sur le dépôt officiel du **Wonder Quest Launcher**, le launcher personnalisé pour rejoindre le serveur Minecraft **Wonder Quest** !  
 Facile à utiliser, rapide à installer, et conçu pour vous immerger dans l’univers unique de Wonder Quest dès le lancement.
-
----
-
-![Java](https://img.shields.io/badge/java-17%2B-blue)
-![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Mac%20%7C%20Linux-green)
 
 ---
 
