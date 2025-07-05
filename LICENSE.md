@@ -51,4 +51,4 @@ Toute violation de cette licence entraînera automatiquement la révocation de v
 
 ---
 
-**Contact :** [contact@wonderquest.fr]
+**Contact :** contact@wonderquest.fr
