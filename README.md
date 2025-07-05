@@ -78,8 +78,9 @@ Ouvrez une **issue** pour suggérer une amélioration ou signalez un bug, ou pro
 
 ## 📄 Licence
 
-Projet sous licence **MIT**.  
-Consultez [LICENSE](./LICENSE) pour plus d’informations.
+Le Wonder Quest Launcher est un logiciel **propriétaire**.  
+Tous droits réservés.  
+Consultez [LICENSE.md](./LICENSE.md) pour plus d’informations.
 
 ---
 
